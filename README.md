@@ -1,3 +1,3 @@
-# Java-Lise-Alan-ser-im-sistemi
+# Java-Lise-Alan-seçim-sistemi
 
 Nesneye Yönelik Programlama Final Çalışmam
